@@ -16,3 +16,12 @@
 - Test Case Design Techniques: https://www.softwaretestinghelp.com/test-case-design-techniques
 - Test Case Defect Management Best Practices: https://www.softwaretestinghelp.com/test-case-defect-management-best-practices
 - Test Case Documentation Best Practices: https://www.softwaretestinghelp.com/test-case-documentation-best-practices
+# 2. Test Data Rules
+Use test data explicitly provided in the requirement.
+
+If required test data is not provided:
+
+- Identify the missing test data.
+- Use placeholders where appropriate.
+- Clearly label assumptions.
+- Do not present assumed test data as a confirmed requirement.

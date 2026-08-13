@@ -58,3 +58,14 @@ If an output file already exists:
 - Replace the existing content.
 - Do not append duplicate test cases.
 - Ensure the regenerated output reflects the latest requirement.
+Before producing the final report, validate all calculated metrics.
+
+Verify that:
+
+- Total test case counts match the actual test cases.
+- Category counts sum to the total.
+- Priority counts sum to the total.
+- Severity counts sum to the total.
+- Percentages are mathematically correct.
+- Acceptance criteria coverage matches the traceability matrix.
+- Test case IDs referenced in summaries actually exist.

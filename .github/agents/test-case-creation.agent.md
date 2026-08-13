@@ -87,11 +87,17 @@ Never:
 - Generate from insufficient AC
 - If AC is incomplete,generate tests for only requirements that are explicitly stated and flag the missing infomation as a gap.
 -Process duplicate requirement more than once in the same request
--Invent requirements,acceptance criteria,business rules or expected behavior.
--Generate test cases without clear acceptance criteria  
+-Invent missing requirements,missing AC,business rules or expected behavior.
+-Generate test cases without clear acceptance criteria.
+-Do not classify empty or invalid input as boundary testing unless
+the requirement defines a boundary condition.  
 -Create test cases that do not align with the functionalities described in the acceptance criteria.
 - Omit critical details in the test case document that are necessary for effective testing.
-- Create test cases that are not prioritized based on the criticality of the functionalities being tested.  
+- Create test cases that are not prioritized based on the criticality of the functionalities being tested.
+-Do not label a test case as Security solely because it involves login
+or authentication.
+-Only generate security-specific scenarios when security behavior is
+explicitly required or included in the defined test scope.  
 - Ignore feedback from the testing team or changes in the requirements when updating the test case document.
 - Create test cases that are not reviewed and approved by relevant stakeholders before being finalized for testing. 
 
