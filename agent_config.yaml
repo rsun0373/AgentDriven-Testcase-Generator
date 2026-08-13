@@ -1,0 +1,21 @@
+agent:
+  name: test-case-creation-agent
+  version: "1.0.0"
+
+requirement_source:
+  provider: github
+  repository: "https://github.com/rsun0373/LLM-Testcase-Generator"
+  issue_source: runtime
+
+generation:
+  default_output_format: markdown
+  include_gherkin: true
+  min_test_cases_per_ticket: 5
+  test_categories:
+    - functional
+    - negative
+    - boundary
+    - edge
+
+export:
+  output_dir: "./output/test-cases"

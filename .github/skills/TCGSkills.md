@@ -1,0 +1,18 @@
+# 1. References
+- Test Case Documentation Best Practices: https://www.softwaretestinghelp.com/test-case-documentation
+- Test Case Template: https://www.guru99.com/test-case-template.html
+- BDD Test Case Writing: https://cucumber.io/docs/bdd/writing-features
+- Test Case Prioritization: https://www.softwaretestinghelp.com/test-case-prioritization
+- Test Case Review Checklist: https://www.softwaretestinghelp.com/test-case-review-checklist  
+- JIRA API Documentation: https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/
+- Test Case Management Tools: https://www.softwaretestinghelp.com/test-case-management-tools
+- Test Case Automation Tools: https://www.softwaretestinghelp.com/test-automation-tools
+- Test Case Version Control: https://www.softwaretestinghelp.com/test-case-version-control
+- Test Case Metrics and Reporting: https://www.softwaretestinghelp.com/test-case-metrics-and-reporting
+- Test Case Maintenance: https://www.softwaretestinghelp.com/test-case-maintenance
+- Test Case Execution: https://www.softwaretestinghelp.com/test-case-execution
+- Test Case Defect Management: https://www.softwaretestinghelp.com/test-case-defect-management
+- Test Case Documentation Tools: https://www.softwaretestinghelp.com/test-case-documentation-tools
+- Test Case Design Techniques: https://www.softwaretestinghelp.com/test-case-design-techniques
+- Test Case Defect Management Best Practices: https://www.softwaretestinghelp.com/test-case-defect-management-best-practices
+- Test Case Documentation Best Practices: https://www.softwaretestinghelp.com/test-case-documentation-best-practices
