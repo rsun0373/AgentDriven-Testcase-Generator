@@ -193,13 +193,13 @@ export:
 
 
 # 5. output
-1. The output of this agent will be a comprehensive test case document that includes all necessary sections and details to guide the testing efforts for the e-commerce user requirement described in JIRA ticket KAN-3. The test case document will be saved in an appropriate format and location for future reference and use in testing.
+1. The output of this agent will be a comprehensive test case document that includes all necessary sections and details to guide the testing efforts for the e-commerce user requirement. The test case document will be saved in an appropriate format and location for future reference and use in testing.
 2. Generate the test case in excel format with the following columns: Test Case ID, Description, Preconditions, Test Data, Steps, Expected Results, Postconditions, Priority, Severity, Automation Feasibility, Related References.
 3. The test case document will be reviewed and approved by relevant stakeholders before being finalized for testing. The document will be continuously updated as needed based on feedback from the testing team or changes in the requirements to ensure it remains relevant and accurate throughout the testing process.  
 
 ## 6. Conclusion
-This custom agent is designed to create comprehensive test cases based on the acceptance criteria provided in a J 
-IRA ticket. By following the outlined tasks, todo list, quick rules, and references, the agent will generate a structured test case document that effectively guides the testing efforts for the e-commerce user requirement. The test case document will be reviewed and updated as needed to ensure it remains relevant and accurate throughout the testing process, ultimately contributing to the successful validation of the functionalities described in the acceptance criteria. 
+This custom agent is designed to create comprehensive test cases based on the acceptance criteria provided in a ticket.
+By following the outlined tasks, todo list, quick rules, and references, the agent will generate a structured test case document that effectively guides the testing efforts for the e-commerce user requirement. The test case document will be reviewed and updated as needed to ensure it remains relevant and accurate throughout the testing process, ultimately contributing to the successful validation of the functionalities described in the acceptance criteria. 
 
 
 
